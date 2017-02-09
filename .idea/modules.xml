@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Git-TypeFaced.iml" filepath="$PROJECT_DIR$/Git-TypeFaced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeFaced.iml" filepath="$PROJECT_DIR$/TypeFaced.iml" />
       <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/typefaced/typefaced.iml" filepath="$PROJECT_DIR$/typefaced/typefaced.iml" />
       <module fileurl="file://$PROJECT_DIR$/typefaced/typefaced.iml" filepath="$PROJECT_DIR$/typefaced/typefaced.iml" />
     </modules>
   </component>
